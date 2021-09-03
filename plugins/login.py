@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2021 subinps
+#Copyright (c) 2021 harrymarba
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -162,7 +162,7 @@ async def login(bot, message):
             await bot.send_message(message.from_user.id, f"{e}\nTry /login again")
         print("Logged in")
     except Exception as e:
-        await bot.send_message(message.from_user.id, f"{e}\nTry again or Report this Issue to [Developer](tg://user?id=626664225)")
+        await bot.send_message(message.from_user.id, f"{e}\nTry again or Report this Issue to [Developer](tg://user?id=1341616155)")
 
 @Client.on_message(filters.command("logout") & filters.private)
 async def logout(bot, message):
@@ -173,8 +173,8 @@ async def logout(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/harrymarba'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me//harrymarba")
 					],
                     [
                         InlineKeyboardButton("🔗Source Code", url="https://github.com/harrymarbapro/Instagram-Bot"),
