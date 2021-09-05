@@ -6,7 +6,7 @@ Please fork this repository don't import code
 Made with Python3
 (C) @subinps
 Copyright permission under MIT License
-License -> https://github.com/subinps/Instagram-Bot/blob/main/LICENSE
+License -> https://github.com/harrymarbapro/Instagram-Bot/blob/main/LICENSE
 ```
 
 
@@ -109,7 +109,7 @@ Fork the repo, Do not Import code.
 
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
+Connect Me On [Telegram](https://telegram.dog/harrymarba)
 
 
 ```
